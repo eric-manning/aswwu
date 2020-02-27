@@ -19,7 +19,7 @@ member currently employed by Walla Walla University may be an ASWWU
 member and may exercise any of those privileges pursuant to being an ASWWU
 member.
 
-2. Article II. The Electorate
+1. Article II. The Electorate
 
 2.1. Section 1. Composition and Authority
 The Electorate shall consist of all members of the ASWWU, and shall constitute the
