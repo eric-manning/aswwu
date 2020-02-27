@@ -3,6 +3,7 @@
 We, the members of Walla Walla University and its Associated Students, do ordain and
 consent to this Constitution.
 1. Article I. Name, Authority, and Membership
+
 1.1. Section 1. Name
 The name of this organization shall be the Associated Students of Walla Walla
 University, hereinafter referred to as the ASWWU.
