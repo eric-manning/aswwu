@@ -1,4 +1,4 @@
-## ASWWU Governing Documents
+# ASWWU Governing Documents
 
 We, the members of Walla Walla University and its Associated Students, do ordain and consent to this Constitution.
 
