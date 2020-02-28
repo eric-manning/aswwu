@@ -6,7 +6,7 @@ We, the members of Walla Walla University and its Associated Students, do ordain
 1. Test
 1. Test
 
-## 1. Article I. Name, Authority, and Membership
+## 2. Article I. Name, Authority, and Membership
 
 ### 1.1. Section 1. Name
 
@@ -18,7 +18,7 @@ This organization is ordained by the express authority of the ASWWU membership, 
 ### 1.3. Section 3. Membership <br/>
 Any student currently enrolled in Walla Walla University or any faculty/staff member currently employed by Walla Walla University may be an ASWWU member and may exercise any of those privileges pursuant to being an ASWWU member.
 
-## 1. Article II. The Electorate
+## 3. Article II. The Electorate
 
 ### 2.1. Section 1. Composition and Authority <br/>
 The Electorate shall consist of all members of the ASWWU, and shall constitute the final authority in all matters of ASWWU  concern (subject to Article I, Section 2 above). The Electorate shall exercise its authority by election, initiative, referendum, and recall.
