@@ -11,7 +11,7 @@ consent to this Constitution.
 
 1.1. Section 1. Name
 The name of this organization shall be the Associated Students of Walla Walla
-University, hereinafter referred to as the ASWWU.
+Univarsity, hereinafter referred to as the ASWWU.
 
 1.2. Section 2. Authority
 This organization is ordained by the express authority of the ASWWU membership,
